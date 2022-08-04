@@ -1,1 +1,3 @@
-# Rock_Paper_Scissors
+# Rock Paper and Scissors
+A simple rock, paper and scissors game using python...
+Just download the game and run the program to play the game with computer.
